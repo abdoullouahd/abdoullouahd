@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something where I can help.
 - 📫 How to reach me > abdoullouahd@gmail.com
 - 😄 Pronouns: any
-- ⚡ Fun fact: boring if ure not u are not a prgrammer
+- ⚡ Fun fact: Boring. If you're not, you're not a programmer.
 
 <!---
 abdoullouahd/abdoullouahd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
